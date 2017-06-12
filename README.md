@@ -374,15 +374,15 @@ exit
 
 lb datasource
 
-Enter the datasource name: ecommerceDS
-Select the connector for ecommerceDS: PostgreSQL ...
-Connection String url to override other settings (eg: postgres://username:password@localhost/database):
-host: 127.0.0.1
-port: 5432
-user: ecommerce_admin
-password:12345
-database: ecommerce
-Install loopback-connector-postgresql@^2.4 Yes
+#Enter the datasource name: ecommerceDS
+#Select the connector for ecommerceDS: PostgreSQL ...
+#Connection String url to override other settings (eg: postgres://username:password@localhost/database):
+#host: 127.0.0.1
+#port: 5432
+#user: ecommerce_admin
+#password:12345
+#database: ecommerce
+#Install loopback-connector-postgresql@^2.4 Yes
 
 npm install async -save
 ```
